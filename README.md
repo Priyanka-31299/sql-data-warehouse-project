@@ -30,6 +30,9 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making. 
 
+## Documentation
+[View Project Documentation](https://app.notion.com/p/Data-Warehouse-Project-3cfabb6b65278003ba52e0d0aea9c5b5?source=copy_link)
+
  🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
